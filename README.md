@@ -1,6 +1,6 @@
 
 #Autor - Dhabanna
-# Convers-o-XML-e-Classe-Delphi-Ferramenta-de-Serializa-o-e-Desserializa-o
+# Conversão-XML-Serializa e Desserializa
 
 
 # Conversão de XML para Classe Delphi e Classe para XML
