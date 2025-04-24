@@ -36,6 +36,4 @@ type
   public
     property Name: string read FName write FName;
     property Age: Integer read FAge write FAge;
-
-    procedure ToXML(const FileName: string);
   end;
